@@ -3,19 +3,19 @@
 #자기소개서 연습
 <hr>
 
-##이름
+## 이름
 
 
 *   **장우혁**
 <br><br>
 
 
-##생년월일
+## 생년월일
 
 * **2007년 10월 14일**
 <br><br>
 
-##학교
+## 학교
 * **삼척고등학교**
 
 <img src="https://i.namu.wiki/i/_Jkpl9gClK1xQ0f8Rj70Tooh0C6yxHyhQQFy851tbvdhCiwPYJFC4suc4qRqlRZm_KGrlgDBy_hxAmkxy22JXw.webp"></img>
@@ -23,7 +23,7 @@
 * **[삼척 고등학교 공식 홈페이지](https://samchok.gwe.hs.kr/main.do)**
 <br><br>
 
-##취미
+## 취미
 * **리듬게임**
  - **PUMP IT UP**<br><img src="https://i.namu.wiki/i/srz5w6hi1uyOdl7Iz5hReAaSl3Vg9OtIhmWj3OLKUOM8HIGIOO5lxuNbpSOFe0geEQ0OHfSoHUiZis-5yH06jQ.webp" width="200">
 
@@ -54,7 +54,7 @@
    **[피펨즈 유튜브 바로가기](https://www.youtube.com/@FEFEMZ)**
 <br><br>
 
-##목표
+## 목표
 
 *   **나만의 리듬게임 만들기**
 *   **Ultimatum s23 클리어**
